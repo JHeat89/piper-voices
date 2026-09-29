@@ -1,0 +1,5 @@
+470b4dd634c98f8a4850d7626ffc3dfc90774628eeef6605a6dd8f88f30a5903  en_GB-cori-high.onnx
+4cabf7c3a638017137f34a1516522032d4fe3f38228a843cc9b764ddcbcd9e09  en_US-lessac-high.onnx
+9127a559e11603f10b366d1a20ac7426826081dbc521de4c2420c57728d73f0f  en_US-libritts-high.onnx
+5d4f08ba6a2a48c44592eed3ce56bf85e9de3dd4e20df90541ae68a8310c029a  en_US-ljspeech-high.onnx
+b3990d7606e183ec8dbfba70a4607074f162de1a0c412e0180d1ff60bb154eca  en_US-ryan-high.onnx
